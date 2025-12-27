@@ -8,6 +8,8 @@ The project is built using **industry best practices** such as modular coding, c
 ## 🌐 Flask Application & Deployment
 The project includes a Flask-based web application that serves the trained machine learning model through a simple and intuitive interface. The Flask app loads the saved model and preprocessing pipeline to perform real-time predictions on user-provided input. The application is structured to be deployment-ready, making it easy to containerize using Docker and deploy on cloud platforms such as AWS, Azure, or GCP. This setup demonstrates how an ML model can be transitioned from experimentation to a production-like environment.
 
+Live Application Link - https://math-score-predictor-yesl.onrender.com
+
 ---
 
 ## 🚀 Project Workflow
