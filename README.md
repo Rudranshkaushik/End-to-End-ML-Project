@@ -3,7 +3,10 @@
 ## 📌 Overview
 This repository contains an **end-to-end machine learning project** that demonstrates the complete lifecycle of an ML solution — from data ingestion and preprocessing to model training, evaluation, and deployment-ready structure.
 
-The project is built using **industry best practices** such as modular coding, configuration-driven pipelines, logging, and exception handling. It is suitable for **real-world applications** and **ML Engineer / Data Scientist interviews**.
+The project is built using **industry best practices** such as modular coding, configuration-driven pipelines, logging, and exception handling.
+
+## 🌐 Flask Application & Deployment
+The project includes a Flask-based web application that serves the trained machine learning model through a simple and intuitive interface. The Flask app loads the saved model and preprocessing pipeline to perform real-time predictions on user-provided input. The application is structured to be deployment-ready, making it easy to containerize using Docker and deploy on cloud platforms such as AWS, Azure, or GCP. This setup demonstrates how an ML model can be transitioned from experimentation to a production-like environment.
 
 ---
 
