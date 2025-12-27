@@ -5,8 +5,7 @@ matplotlib
 scikit-learn
 catboost
 xgboost
-Flaskpandas
-numpy
-seaborn
+Flask
+gunicorn
 
 -e .
